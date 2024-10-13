@@ -35,8 +35,9 @@ In this lab, I created and configured four workbooks in Azure Sentinel to visual
 
 - Use linux-ssh-auth-fail.json to create the “Linux SSH Authentication Failures” map
 ![Screenshot 2024-10-12 180012](https://github.com/user-attachments/assets/90d27bec-c3d5-42c8-a45b-b630ed7155e8)
+![Screenshot 2024-10-13 083304](https://github.com/user-attachments/assets/c624822e-79ca-4ea4-bb99-db8b9d471104)
 
-![Screenshot 2024-10-12 175425](https://github.com/user-attachments/assets/335a96c6-6c7d-4b44-a866-ec40062f885d)
+
 
 - Use mssql-auth-fail.json to create the “MS SQL Server Authentication Failures” map
 
@@ -46,7 +47,8 @@ In this lab, I created and configured four workbooks in Azure Sentinel to visual
 
 - Use windows-rdp-auth-fail.json to create the “Windows RDP/SMB Authentication Failures” map
 ![Screenshot 2024-10-12 181628](https://github.com/user-attachments/assets/8c5cbeec-a2e2-4b7b-9b4c-2600f6b8f21f)
-![image](https://github.com/user-attachments/assets/6e2ec2a8-585c-4380-8a0c-d613ac214659)
+![Screenshot 2024-10-13 083116](https://github.com/user-attachments/assets/22f7f07e-551c-49de-83e6-307d03861186)
+
 
 
 
